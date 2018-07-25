@@ -1,6 +1,8 @@
 # -AddressBook
 AddressBook个人通讯录（单机）
 
+![Aaron Swartz](https://github.com/YannisCxy/-/raw/master/%E9%80%9A%E8%AE%AF%E5%BD%95%E4%B8%BB%E7%95%8C%E9%9D%A2.JPG)
+
 1．业务及主要功能描述
 	个人通讯录使用java技术实现，是单机版、图形界面、单用户的应用，主要功能有浏览已存储的通讯信息，可增加、删除、修改、存储联系人，联系人信息包括姓名、出生日期、手机、电子邮件、备注等，姓名作为通信信息的主键，要求唯一，不能为空。
   
