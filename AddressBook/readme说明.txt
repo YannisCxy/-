@@ -1,0 +1,1 @@
+运行可执行jar时要将src里的address.ini放在D盘，才可以运行。
